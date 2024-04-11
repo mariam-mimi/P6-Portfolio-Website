@@ -1,0 +1,24 @@
+{
+  "name": "p6-portfolio-website",
+  "version": "1.0.0",
+  "description": "Unit 6 Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariam-mimi/P6-Portfolio-Website.git"
+  },
+  "author": "Mariam Kisto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariam-mimi/P6-Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/mariam-mimi/P6-Portfolio-Website#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.2"
+  }
+}

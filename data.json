@@ -1,0 +1,74 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "explain here",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https get this",
+            "github_link": "https://github.com/mariam-mimi/P1-Random-Quote-Generator",
+            "homepage_img_url": "/static/images/P1-MainShot.png",
+            "image_urls": [
+                "/static/images/P1-landscape-1.png",
+                "/static/images/P1-landscape-2.png",
+                "/static/images/P1-landscape-3.png"
+            ]
+        }, 
+        {
+            "id": 1,
+            "project_name": "Using Data Pagination and Filtering",
+            "description": "explain here",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https get this",
+            "github_link": "https://github.com/mariam-mimi/P2-Data-Pagination-And-Filtering",
+            "homepage_img_url": "/static/images/P2-MainShot.png",
+            "image_urls": [
+                "/static/images/P2-landscape-1.png",
+                "/static/images/P2-landscape-2.png",
+                "/static/images/P2-landscape-3.png"
+            ]
+        }, 
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "explain here",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https get this",
+            "github_link": "https://github.com/mariam-mimi/P3-Interactive-Form",
+            "homepage_img_url": "/static/images/P3-MainShot.png",
+            "image_urls": [
+                "/static/images/P3-landscape-1.png",
+                "/static/images/P3-landscape-2.png",
+                "/static/images/P3-landscape-3.png"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "Phrase Guessing Game",
+            "description": "explain here",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https get this",
+            "github_link": "https://github.com/mariam-mimi/P4-oop-game",
+            "homepage_img_url": "/static/images/P4-MainShot.png",
+            "image_urls": [
+                "/static/images/P4-landscape-1.png",
+                "/static/images/P4-landscape-2.png",
+                "/static/images/P4-landscape-3.png"
+            ]
+        }, 
+        {
+            "id": 4,
+            "project_name": "Employee Directory Using Public API Requests",
+            "description": "explain here",
+            "technologies": ["JavaScript", "HTML", "CSS"],
+            "live_link": "https get this",
+            "github_link": "https://github.com/mariam-mimi/P5-Public-API-Requests",
+            "homepage_img_url": "/static/images/P5-MainShot.png",
+            "image_urls": [
+                "/static/images/P5-landscape-1.png",
+                "/static/images/P5-landscape-2.png",
+                "/static/images/P5-landscape-3.png"
+            ]
+        }
+    ]
+}
