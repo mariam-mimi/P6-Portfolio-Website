@@ -1,0 +1,10 @@
+extends layout.pug 
+
+block content 
+    h1 Error 
+    p= `An error occured: ${error.message}`
+
+    nav.nav
+      a(href='/')
+        span &larr;
+        |  Back

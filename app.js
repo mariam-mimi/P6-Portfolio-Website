@@ -41,7 +41,7 @@ app.use((err, req, res, next) => {
     if (!err.message) err.message = "Internal Server Error";
     console.log(`${err.status}: ${err.message}`);
     res.status(err.status);
-    res.render("error", {err});
+    res.render("error", {error: err});
 });
 
 app.listen(3000, () => {
