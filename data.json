@@ -59,7 +59,7 @@
         {
             "id": 4,
             "project_name": "Employee Directory Using Public API Requests",
-            "description": "This program shows a directory that grabs information for 12 random employees everytime the page is refreshed. You can click on an employee and it will display more detailed information about them. You can click through the employees with left and right arrows. This was built using public APIs and making requests through them!",
+            "description": "This program shows a directory that grabs information for 12 random employees everytime the page is refreshed. You can click on an employee and it will display more detailed information about them. You can click through the employees with prev and next buttons. This was built using public APIs and making requests through them!",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https get this",
             "github_link": "https://github.com/mariam-mimi/P5-Public-API-Requests",
