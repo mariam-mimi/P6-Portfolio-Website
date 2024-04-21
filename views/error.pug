@@ -1,9 +1,11 @@
 extends layout.pug 
 
 block content 
+    //Handles errors
     h1 Error 
     p= `An error occured: ${error.message}`
 
+    // Route to front page
     nav.nav
       a(href='/')
         span &larr;

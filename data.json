@@ -31,7 +31,7 @@
         {
             "id": 2,
             "project_name": "Interactive Form",
-            "description": "This program contains an interactive registration form for a Full Stack COnference. All fields are required to be filled out and if they aren't and submit is clicked, the page will automatically scroll up to shadow the box red and give an error that it needs to be filled out!",
+            "description": "This program contains an interactive registration form for a Full Stack COnference. All fields are required to be filled out and if they aren't and register is clicked, the page will automatically scroll up to shadow the box red and give an error that it needs to be filled out!",
             "technologies": ["JavaScript", "HTML", "CSS"],
             "live_link": "https get this",
             "github_link": "https://github.com/mariam-mimi/P3-Interactive-Form",
