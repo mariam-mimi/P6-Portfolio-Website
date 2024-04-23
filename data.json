@@ -5,7 +5,7 @@
             "project_name": "Random Quote Generator",
             "description": "This is a program that gives the user random motivational quotes. The show another quote button will allow the user to go through the quotes manually, because if the button doesn't get clicked, the quote will automatically change after a few seconds. In addition, as each quote changes, so does the background color!!",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https get this",
+            "live_link": "https://mariam-mimi.github.io/P1-Random-Quote-Generator/",
             "github_link": "https://github.com/mariam-mimi/P1-Random-Quote-Generator",
             "homepage_img_url": "/static/images/P1-MainShot.png",
             "image_urls": [
@@ -19,7 +19,7 @@
             "project_name": "Using Data Pagination and Filtering",
             "description": "This program uses pagination to enhance the usability of a website for lists of students. It displays nine students in each page with their picture, name, and email, showing 42 different student accounts. You can also click through the pages at the bottom of the screen!",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https get this",
+            "live_link": "https://mariam-mimi.github.io/P2-Data-Pagination-And-Filtering/",
             "github_link": "https://github.com/mariam-mimi/P2-Data-Pagination-And-Filtering",
             "homepage_img_url": "/static/images/P2-MainShot.png",
             "image_urls": [
@@ -33,7 +33,7 @@
             "project_name": "Interactive Form",
             "description": "This program contains an interactive registration form for a Full Stack COnference. All fields are required to be filled out and if they aren't and register is clicked, the page will automatically scroll up to shadow the box red and give an error that it needs to be filled out!",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https get this",
+            "live_link": "https://mariam-mimi.github.io/P3-Interactive-Form/",
             "github_link": "https://github.com/mariam-mimi/P3-Interactive-Form",
             "homepage_img_url": "/static/images/P3-MainShot.png",
             "image_urls": [
@@ -47,7 +47,7 @@
             "project_name": "Phrase Guessing Game",
             "description": "This program is a phrase guessing game. It gives the user a phrase to guess and they have five lives to guess the phrase. The program starts with a start page that leads to a game and when the user wins, a colorful page will show up with 'You Win!' and if they lose, it shows a red screen with 'You Lose, Try Again'!",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https get this",
+            "live_link": "https://mariam-mimi.github.io/P4-oop-game/",
             "github_link": "https://github.com/mariam-mimi/P4-oop-game",
             "homepage_img_url": "/static/images/P4-MainShot.png",
             "image_urls": [
@@ -61,7 +61,7 @@
             "project_name": "Employee Directory Using Public API Requests",
             "description": "This program shows a directory that grabs information for 12 random employees everytime the page is refreshed. You can click on an employee and it will display more detailed information about them. You can click through the employees with prev and next buttons. This was built using public APIs and making requests through them!",
             "technologies": ["JavaScript", "HTML", "CSS"],
-            "live_link": "https get this",
+            "live_link": "https://mariam-mimi.github.io/P5-Public-API-Requests/",
             "github_link": "https://github.com/mariam-mimi/P5-Public-API-Requests",
             "homepage_img_url": "/static/images/P5-MainShot.png",
             "image_urls": [
