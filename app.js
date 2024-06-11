@@ -36,10 +36,12 @@ app.get('/project/:id', (req, res) => {
 
 // Handles 404 errors for unknown routes
 app.use((req, res, next) => {
-    const err = new Error("Not Found");
+    const err = new Error("404: Page Not Found");
     err.status = 404;
     console.log(`${err.status}: ${err.message}`);
     next(err);
+    res.status(err.status);
+    res.render("error", {error: err});
 })
 
 // Handles middleware errors to render error page for other found errors
